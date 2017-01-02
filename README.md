@@ -2,7 +2,7 @@ REACT BoilerPlate
 
 this is a barebones boilerplate to start a react application. It is already prepped to deploy to heroku.
 
-to install - fork - clone - run npm install - enjoy
+to install - fork - clone - run npm install - run webpack or webpack -w in the command line - then node server.js - enjoy
 
 install includes -
 
