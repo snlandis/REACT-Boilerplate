@@ -27,3 +27,7 @@ style-loader
 webpack
 
 heroku-ready
+
+
+link to foundation website
+http://foundation.zurb.com/sites/docs/
